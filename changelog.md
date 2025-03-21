@@ -13,7 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - added folders HTML and CSS
 - added README.md
 - added index.html in branch exercicio_html
-
+- added folder CSS
 
 ### Fixed
 
@@ -23,3 +23,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ### Removed
+
+- remove folders HTML and CSS
