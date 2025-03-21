@@ -14,12 +14,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - added README.md
 - added index.html in branch exercicio_html
 - added folder CSS
+- added folder images with files
 
 ### Fixed
 
 
 ### Changed
-
+- changed index.html in branch exercicio_css
 
 
 ### Removed
