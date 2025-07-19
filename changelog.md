@@ -11,12 +11,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - added changelod.md
 - added folders HTML and CSS
+- added index.html
+- added main.js
 
 ### Fixed
 
 
 ### Changed
-
+- changed index.html, create initial struture
+- changed index.html, create link for main.css
+- changed index.htm, create form
+- changed main.css, created every part of style
+- changed main.j, create initial cod
 
 
 ### Removed
