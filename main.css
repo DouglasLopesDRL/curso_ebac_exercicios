@@ -40,10 +40,46 @@ input, button{
     background-color: rgba(226, 113, 33, 0.918);
 }
 
-p{
+.p-correcao{
     background-color: red;
     color: white;
     font-size: 14px;
     font-weight: bold;
     padding: 5px;
+}
+
+#msgValor1{
+    display: none;
+}
+
+#msgValor2{
+    display: none;
+}
+
+#msg-final{
+    text-align: center;
+    background-color: coral;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    padding: 20px;
+    margin-top: 5px;
+    display: none;
+}
+
+#msg-orientacao{
+    display: none;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+    margin-top: 5px;
+    color: white;
+}
+
+.sucess{
+    background-color: green;
+}
+
+.fail{
+    background-color: red;
 }
