@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    background-color: #5f27cd;
+    color: #fff;
+    padding: 16px 0;
+    border-bottom: 16px solid #341f97;
+    text-transform: uppercase;
+    font-style: italic;
+}
