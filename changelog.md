@@ -12,13 +12,19 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - index.html
 - main.css
 
-### Fixed
-
-
 ### Changed
 - index.html, linked fonts google
 - main.css, general configuration
 - main.css, header stylized
 
+## [1.0.1] - 2025-08-21
 
-### Removed
+### Added
+- main.js
+- import script jquery in html
+
+### Changed
+- main.css, styled the header button,
+- main.css, styled the form and its contents, h2, inputs and button
+- main.css, stylized the body buttons
+- main.js, made the first jquery call 
