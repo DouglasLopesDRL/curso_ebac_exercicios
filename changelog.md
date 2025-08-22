@@ -28,3 +28,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - main.css, styled the form and its contents, h2, inputs and button
 - main.css, stylized the body buttons
 - main.js, made the first jquery call 
+
+## [1.0.2] - 2025-08-22
+
+### Changed
+- main.css, form behavior, display none
+- main.js, created click event for header button and form button cancel 
+- main.js  create submit event for form
