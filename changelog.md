@@ -35,3 +35,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - main.css, form behavior, display none
 - main.js, created click event for header button and form button cancel 
 - main.js  create submit event for form
+
+## [1.0.3] - 2025-08-23
+
+### Added
+- folder images with five files
+
+### Changed
+- index.html, created an unordered list of images
+- index.html, added a class ouverlay-image-link to the list div
+- main.css, done all the styling of the image list
+- main.css, created a transition effect for the link
+- main.js, 
