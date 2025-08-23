@@ -46,4 +46,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - index.html, added a class ouverlay-image-link to the list div
 - main.css, done all the styling of the image list
 - main.css, created a transition effect for the link
-- main.js, 
+- main.js, added to the submit event the implementation of a new li
+- index.html, created a new id new-image-adress and a new item li
+- main.css, final adjustments
