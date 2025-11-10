@@ -1,0 +1,14 @@
+.container{
+    max-width: 600px;
+}
+
+.btn{
+    cursor: pointer;
+    width: 100%;
+}
+
+.btn:hover{
+    text-decoration: underline;
+    font-size: 17px;
+    background-color: #1482f8;
+}
